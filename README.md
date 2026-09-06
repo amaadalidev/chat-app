@@ -1,56 +1,61 @@
-# Welcome to your Expo app 👋
+# ChatApp
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+A mobile chat application built with React Native and Expo.
 
-## Get started
+## 📱 APK
 
-1. Install dependencies
+The Android APK has been successfully built using Expo EAS.
 
-   ```bash
-   npm install
-   ```
+### Download / Build
 
-2. Start the app
+[Download APK / View EAS Build](https://expo.dev/accounts/amaadali/projects/ChatApp/builds/c9f53ff4-3fbc-498a-ba69-cb209f6f7716)
 
-   ```bash
-   npx expo start
-   ```
+> Note: The APK build is hosted through Expo EAS.
 
-In the output, you'll find options to open the app in a
+## 🚀 Tech Stack
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+- React Native
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+- Expo
 
-## Get a fresh project
+- Expo Router
 
-When you're ready, run:
+- JavaScript / TypeScript
+
+- Expo EAS
+
+- Android
+
+## ✨ Features
+
+- User-friendly chat interface
+
+- Real-time messaging
+
+- Mobile-first UI
+
+- Android application
+
+- Built and distributed using Expo EAS
+
+## 🛠️ Installation
+
+### Prerequisites
+
+Make sure you have installed:
+
+- Node.js
+
+- npm or yarn
+
+- Expo CLI
+
+- EAS CLI
+
+### Clone the repository
 
 ```bash
-npm run reset-project
-```
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+git clone YOUR_REPOSITORY_URL
 
-### Other setup steps
-
-- To set up ESLint for linting, run `npx expo lint`, or follow our guide on ["Using ESLint and Prettier"](https://docs.expo.dev/guides/using-eslint/)
-- If you'd like to set up unit testing, follow our guide on ["Unit Testing with Jest"](https://docs.expo.dev/develop/unit-testing/)
-- Learn more about the TypeScript setup in this template in our guide on ["Using TypeScript"](https://docs.expo.dev/guides/typescript/)
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+cd ChatApp
