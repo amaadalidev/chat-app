@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://lh3.googleusercontent.com/pw/AP1GczNivuDTs5cjL1ZYMbhwmJbVE1n7WDzAVGMKd_79ddlvjRVAlKLw9RHBbavicyMG6W85ws2YONiAj4MT-DOr-XlU-HzfdCU7qZNbRxuzMpA9AVrcXg=w600-h315-p-k" alt="ChatApp Logo" width="120">
+<img src="https://lh3.googleusercontent.com/pw/AP1GczNivuDTs5cjL1ZYMbhwmJbVE1n7WDzAVGMKd_79ddlvjRVAlKLw9RHBbavicyMG6W85ws2YONiAj4MT-DOr-XlU-HzfdCU7qZNbRxuzMpA9AVrcXg=s400" alt="ChatApp Logo" width="120">
 
 # 💬 ChatApp
 
@@ -11,6 +11,7 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 </div>
 
@@ -30,6 +31,9 @@
 - 👤 Profile settings — display name, bio, and avatar
 - 🔎 New conversation screen with searchable contact list
 - 🟢 Online/offline presence indicators
+- 🔐 Firebase Authentication for secure sign-in
+- 🗄️ Firestore for real-time data sync
+- 📁 Firebase Storage for media/file uploads
 - 📱 Cross-platform — runs natively on both **Android** and **iOS**
 - 🚀 Android build distributed via Expo EAS
 
@@ -42,6 +46,7 @@
 | Framework | React Native, Expo |
 | Navigation | Expo Router |
 | Language | TypeScript / JavaScript |
+| Backend | Firebase Authentication, Firestore, Firebase Storage |
 | Build & Distribution | Expo EAS |
 | Platform | Android, iOS |
 
